@@ -1,0 +1,27 @@
+body {
+  background: #fefefe;
+}
+
+section {
+  background: white;
+}
+
+p {
+  color: black;
+}
+
+.heading {
+  color: darkgoldenrod;
+}
+
+.mini-heading {
+  color: crimson;
+}
+
+.main-header {
+  color: black;
+}
+
+.middle-header {
+  color: black;
+}
