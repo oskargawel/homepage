@@ -1,5 +1,6 @@
 body {
   background: #fefefe;
+
 }
 
 section {
@@ -24,4 +25,32 @@ p {
 
 .middle-header {
   color: black;
+}
+
+.main {
+  width: 1000px;
+  margin: auto;
+
+}
+
+.navigation {
+  width: 7%;
+  margin: auto;
+
+} 
+
+.navigation__link--left {
+  
+
+}
+
+.navigation__link {
+
+
+
+}
+
+.footer {
+  width: 10%;
+  margin: auto;
 }
