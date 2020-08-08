@@ -1,9 +1,4 @@
 body {
-  background: #fefefe;
-
-}
-
-section {
   background: white;
 }
 
@@ -11,43 +6,33 @@ p {
   color: black;
 }
 
-.heading {
+.main__header {}
+
+.main__header--first {
+  color: black;
+  min-width: 100px;
+  margin: auto;
+}
+
+.main__header--second {
   color: darkgoldenrod;
 }
 
-.mini-heading {
+.main__header--third {
   color: crimson;
 }
 
-.main-header {
-  color: black;
-}
-
-.middle-header {
-  color: black;
-}
-
 .main {
-  width: 1000px;
+  max-width: 1000px;
   margin: auto;
-
 }
 
 .navigation {
-  width: 7%;
-  margin: auto;
-
-} 
-
-.navigation__link--left {
-  
-
+  height: 30px;
 }
 
 .navigation__link {
-
-
-
+  color: black;
 }
 
 .footer {
