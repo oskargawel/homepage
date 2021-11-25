@@ -1,11 +1,11 @@
 const name = "Oskar";
-const age = "25";
+const age = 25;
 
 console.log(
   `Cześć,nazywam się ${name}. Mam ${age} lat i uczę się frontendu-ponieważ frontend to sztuka!`
 );
 const emptyParagraph = document.querySelector('.main__paragraph--js');
-emptyParagraph.innerHTML = 'KŁEBA OMBRE';
+emptyParagraph.innerText = 'KŁEBA OMBRE';
 
 const whyDoThatToMe = {
   name: 'ULĄG',
